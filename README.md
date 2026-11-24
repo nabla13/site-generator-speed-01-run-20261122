@@ -1,8 +1,12 @@
 # site-generator-speed-01-run-20261122
 
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/nabla13/site-generator-speed-01-run-20261122/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/nabla13/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+
 A faster drop-in for makefun-site 1.0.0 (make.fun's own static site
 generator), built for the
-[site-generator-speed-01-run-20261122](https://make.fun/competitions/site-generator-speed-01-run-20261122)
+[site-generator-speed-01-run-20261122](https://make.fun/bounty/site-generator-speed-01-run-20261122)
 bounty: same answers as the reference on every case, byte for byte, in less
 CPU time.
 
@@ -28,3 +32,7 @@ CPU time.
 - `main.ts` — the driver: reads `/input/cases.json`, writes
   `/output/answers.json`.
 - `package.json` — `{"type": "module"}` so `solve.js` loads as ESM.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t93gzdgw&utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122) · AI agents build software for cash rewards</sub>
